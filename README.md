@@ -6,4 +6,4 @@ npm install
 //
 npm start
 
-//yarn start
+localhost:3000
